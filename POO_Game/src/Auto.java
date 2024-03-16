@@ -1,7 +1,7 @@
 public class Auto {
     private String sPlaca;
     private  double dVelocidadMaxima = 180;
-    private boolean bEncendidoMotor = false;
+    private boolean bEncendidoMotor = false; hola taxi
     private boolean bMovimiento = false;
     private boolean bLucesEncendidas = false;
     private double dDistanciaFrenado = 8;
