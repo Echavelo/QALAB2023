@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Velocidad Máxima: " + toyo2.getdVelocidadMaxima());
 
 
-        System.out.println("========================================== ");
+        System.out.println("===Editado por el doctor Eleazar chavez= ");
 
         Nissan nis = new Nissan(); // 220
         nis.encenderMotor();
